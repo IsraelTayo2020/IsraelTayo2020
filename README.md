@@ -2,9 +2,7 @@
 - 👀 I’m interested in technical sales 
 - 🌱 I’m currently learning the fundamentals of coding
 - 💞️ I’m looking to collaborate on selling technical product
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love travelling
 
 <!---
 IsraelTayo2020/IsraelTayo2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
